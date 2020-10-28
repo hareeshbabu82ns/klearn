@@ -1,0 +1,1 @@
+enum TestType { ARITHMETICS, LETTERS, WORDS }
